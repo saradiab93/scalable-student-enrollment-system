@@ -2,6 +2,9 @@
 
 A Django-based microservice for high-volume student enrollment ingestion and optimized government reporting. Built with Clean Architecture, SOLID principles, and async background processing via Celery.
 
+https://docs.google.com/document/d/1R1W21-jLRAUEXBZadTWLSTeJMzZ9dq32X86sG7E-vEM/edit?usp=sharing
+
+
 ## Architecture
 
 ```
