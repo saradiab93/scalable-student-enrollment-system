@@ -29,13 +29,13 @@ class EnrollmentIngestionAPITest(APITestCase):
           "student_id": "STU001",
           "region": "North",
           "grade": 5,
-          "name": "Alice",
+          "name": "Sara",
         },
         {
           "student_id": "STU002",
           "region": "South",
           "grade": 7,
-          "name": "Bob",
+          "name": "Omar",
         },
       ],
     }
